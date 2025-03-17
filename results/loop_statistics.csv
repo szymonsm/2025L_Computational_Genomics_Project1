@@ -1,0 +1,16 @@
+Metric,Count,Percentage
+Total loops,5815083,100.0
+Loops with CTCF in at least one anchor,1230768,21.16509772947351
+Loops with CTCF in both anchors,49905,0.85819927247814
+Loops with Rad21 in at least one anchor,1070890,18.415730265586923
+Loops with Rad21 in both anchors,37902,0.6517877732785585
+Loops with both CTCF and Rad21 in at least one anchor,966214,16.61565277744101
+Loops with both CTCF and Rad21 in both anchors,29179,0.5017813159330657
+Loops with CTCF in anchor 1,639459,10.996558432613945
+Loops with CTCF in anchor 2,641214,11.026738569337704
+Loops with Rad21 in anchor 1,553802,9.523544203926237
+Loops with Rad21 in anchor 2,554990,9.543973834939242
+Loops with both CTCF and Rad21 in anchor 1,495665,8.523782033721616
+Loops with both CTCF and Rad21 in anchor 2,497376,8.553205517444892
+Loops with CTCF in anchor 1 and Rad21 in anchor 2,43122,0.7415543337902486
+Loops with CTCF in anchor 2 and Rad21 in anchor 1,43237,0.7435319495869621

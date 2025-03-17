@@ -1,0 +1,6 @@
+Region: chr17:28506923-29006923
+Total loops in region: 1569
+Loops with CTCF in at least one anchor: 514
+Loops with CTCF in both anchors: 34
+Loops with Rad21 in at least one anchor: 456
+Loops with Rad21 in both anchors: 21

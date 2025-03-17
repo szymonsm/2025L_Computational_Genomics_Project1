@@ -1,0 +1,24 @@
+CHROMATIN LOOP ANALYSIS SUMMARY
+==============================
+
+Total ChIA-PET loops analyzed: 5815083
+
+CTCF BINDING:
+- Loops with CTCF in at least one anchor: 1230768 (21.17%)
+- Loops with CTCF in both anchors: 49905 (0.86%)
+- Loops with CTCF in anchor 1: 639459 (11.00%)
+- Loops with CTCF in anchor 2: 641214 (11.03%)
+
+Rad21 BINDING:
+- Loops with Rad21 in at least one anchor: 1070890 (18.42%)
+- Loops with Rad21 in both anchors: 37902 (0.65%)
+- Loops with Rad21 in anchor 1: 553802 (9.52%)
+- Loops with Rad21 in anchor 2: 554990 (9.54%)
+
+CO-BINDING PATTERNS:
+- Loops with both CTCF and Rad21 in at least one anchor: 966214 (16.62%)
+- Loops with both CTCF and Rad21 in both anchors: 29179 (0.50%)
+- Loops with both CTCF and Rad21 in anchor 1: 495665 (8.52%)
+- Loops with both CTCF and Rad21 in anchor 2: 497376 (8.55%)
+- Loops with CTCF in anchor 1 and Rad21 in anchor 2: 43122 (0.74%)
+- Loops with CTCF in anchor 2 and Rad21 in anchor 1: 43237 (0.74%)
